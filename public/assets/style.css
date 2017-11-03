@@ -1,0 +1,20 @@
+.container {
+	margin:0 auto;
+	text-align:center;
+	background-color: rgb(72, 198, 239,0);
+
+}
+
+body{
+background-image: linear-gradient(to top, rgb(72, 198, 239) 0%, rgb(111, 134, 214) 100%);
+
+    border-radius: 0;
+    height: 100vh !important;
+    width: 100vw !important;
+    left: 0 !important;
+    top: 0 !important;
+}
+
+
+
+

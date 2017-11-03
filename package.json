@@ -6,6 +6,7 @@
   "repository": "",
   "scripts": {
     "start": "nodemon ./server/index.js",
+    "bundle": "webpack",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch"
   },
